@@ -8,7 +8,8 @@ print('Checking For Update...')
 
 def ckk():
 
-	v = "0.4"	peo = requests.get('https://apppppappppppappp.blogspot.com/2023/03/dump.html').text
+	v = "0.4"	
+	peo = requests.get('https://apppppappppppappp.blogspot.com/2023/03/dump.html').text
 
 	if v in peo:
 
